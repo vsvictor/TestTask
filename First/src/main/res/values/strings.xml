@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Middle</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="ed_word_hint">Enter URI picture</string>
+    <string name="ok">Ok</string>
+    <string name="test">Test</string>
+    <string name="history">History</string>
+    <string name="sort_by_date">Sort by date</string>
+    <string name="sort_by_status">Sort by status</string>
+</resources>

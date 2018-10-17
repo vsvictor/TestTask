@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingTop="@dimen/padding_top"
+    android:paddingBottom="@dimen/padding_bottom"
+    android:paddingLeft="@dimen/padding_left"
+    android:paddingRight="@dimen/padding_right"
+    android:layout_gravity="center_horizontal|center_vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/tvClose"
+        android:text="@string/close_after"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

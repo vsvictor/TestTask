@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiddleSecond</string>
+    <string name="close_after">Close after 10 seconds...</string>
+</resources>
